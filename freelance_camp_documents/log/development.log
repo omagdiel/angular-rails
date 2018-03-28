@@ -369,3 +369,513 @@ Processing by FreelanceDocumentsController#index as JSON
 Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.3ms)
 
 
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:42:58 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:43:03 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (1.5ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 5ms (Views: 3.1ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:43:08 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:43:13 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:43:18 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:43:23 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.5ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:43:28 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (1.2ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 6ms (Views: 4.0ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:43:33 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:43:38 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.6ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:43:43 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 5ms (Views: 4.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:43:48 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:43:53 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:43:58 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:44:03 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:44:08 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:44:13 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:44:18 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:44:23 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:44:28 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:44:33 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:44:38 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:44:43 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:44:48 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.5ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:44:53 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:44:58 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.5ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:45:03 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:45:08 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:45:13 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.7ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:45:18 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (1.0ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 6ms (Views: 4.3ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:45:23 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 3ms (Views: 3.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:45:28 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:45:33 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:45:38 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:45:43 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:45:48 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:45:53 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:45:58 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 6ms (Views: 5.6ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:46:03 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents"[0m
+Completed 200 OK in 8ms (Views: 8.0ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:46:08 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (16.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 39ms (Views: 13.8ms | ActiveRecord: 20.9ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:46:13 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (1.6ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 8ms (Views: 5.9ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:46:18 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (1.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 6ms (Views: 4.4ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:46:23 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (1.5ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 11ms (Views: 9.4ms | ActiveRecord: 1.5ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:46:28 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (1.1ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 2.4ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:46:33 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (1.8ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 8ms (Views: 6.1ms | ActiveRecord: 1.8ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:46:38 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.5ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:46:43 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:46:48 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:46:53 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:46:58 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:47:03 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:47:08 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:47:13 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.5ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:47:18 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:47:23 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.5ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:47:28 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 3ms (Views: 2.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:47:33 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.9ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:47:38 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:47:43 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:47:48 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.5ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 3.6ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:47:53 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.5ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 5ms (Views: 4.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:47:58 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 5ms (Views: 2.7ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:48:03 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:48:08 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 3ms (Views: 2.6ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:48:13 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.5ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 3.7ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:48:18 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:48:23 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.7ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:48:28 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:48:33 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.5ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:48:38 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:48:43 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:48:48 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.5ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:48:53 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:48:58 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:49:03 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:49:08 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:49:13 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:49:18 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (1.0ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:49:23 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 5ms (Views: 4.2ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:49:28 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.5ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:49:33 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.6ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:49:38 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:49:43 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 3.5ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:49:48 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.3ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.3ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:49:53 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/freelance_documents.json" for ::1 at 2018-03-28 09:49:58 -0600
+Processing by FreelanceDocumentsController#index as JSON
+  [1m[36mFreelanceDocument Load (0.4ms)[0m  [1m[34mSELECT "freelance_documents".* FROM "freelance_documents" ORDER BY created_at DESC[0m
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.4ms)
+
+
